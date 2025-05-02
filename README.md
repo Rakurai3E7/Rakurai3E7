@@ -33,7 +33,3 @@ If you haven't caught my socials on my profile already, here they are in here:
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/rakurai3e7/)
 
 **I hope to catch you on my streams!**
-
-#### Other Tools
-
-![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)
