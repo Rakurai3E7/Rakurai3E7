@@ -18,7 +18,7 @@ My usual Twitch schedule is:
 - *Language Learning Thursdays* (Learning other programming languages)
 - *Freeform Friday* (Anything else)
 
-I'm new to streaming as well, so I still have to adjust to streaming more often.
+I'm new to streaming as well, so I still have to adjust to streaming more often. Also, I'm considering doing some late night weekend streams when I feel like it? I'll see about it.
 
 ### Socials
 
