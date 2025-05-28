@@ -1,10 +1,10 @@
 # Info
 
-Hey, my name is Stephen, or Rakurai3E7. You can also call me Rakurai. I'm 19, a novice programmer, I actually started programming in 2025 this year, and I'm already learning like 3 languages (Python, C, C++), but I still have a lot to learn.
+Hey! My name is Stephen, also known as **Rakurai3E7** (or you can just call me Rakurai). I'm a 19-year-old novice programmer who actually started programming in 2025 this year, and I'm already learning 3 different languages (Python, C, C++).
 
-I also do some Bash, cause I'm on Linux, I use Linux Mint, it's my first Linux distro.
+I use Linux Mint (Which is my first Linux distro), so I also know how to do some Bash scripting as well.
 
-I know HTML and CSS as well, but it's been some months so I'd have to relearn; JS is still a little difficult for me to grasp.
+I know HTML and CSS, but it's been a long time since I've last used them so I'll need a refresher, JavaScript is still tricky for me but I'm working on it.
 
 I stream on YouTube and Twitch, and I'm also on Reddit and Instagram. I'll try to post repos of the projects I make on stream here.
 
